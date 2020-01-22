@@ -1,4 +1,4 @@
-package com.company.project;
+package com.caliven.huai;
 
 import com.baomidou.mybatisplus.core.enums.SqlLike;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.generator.config.*;
 import com.baomidou.mybatisplus.generator.config.po.LikeTable;
 import com.baomidou.mybatisplus.generator.config.po.TableInfo;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
-import com.company.project.entity.BaseEntity;
+import com.caliven.huai.entity.BaseEntity;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.company.project.entity;
+package com.caliven.huai.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;

@@ -1,4 +1,4 @@
-package com.company.project;
+package com.caliven.huai;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.CommandLineRunner;
